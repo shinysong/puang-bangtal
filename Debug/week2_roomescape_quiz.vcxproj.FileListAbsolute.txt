@@ -1,4 +1,0 @@
-C:\Users\SONG\OneDrive - 중앙대학교\과제\4학년 2학기\객체지향프로그래밍\1주차\방탈출 과제_20164051 송채은\week2_roomescape_quiz\Debug\week2_roomescape_quiz.exe
-C:\Users\SONG\OneDrive - 중앙대학교\과제\4학년 2학기\객체지향프로그래밍\1주차\방탈출 과제_20164051 송채은\week2_roomescape_quiz\Debug\week2_roomescape_quiz.pdb
-C:\Users\SONG\OneDrive - 중앙대학교\과제\4학년 2학기\객체지향프로그래밍\1주차\week2_roomescape_quiz_20164051송채은\Debug\week2_roomescape_quiz.exe
-C:\Users\SONG\OneDrive - 중앙대학교\과제\4학년 2학기\객체지향프로그래밍\1주차\week2_roomescape_quiz_20164051송채은\Debug\week2_roomescape_quiz.pdb
