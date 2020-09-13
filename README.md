@@ -1,6 +1,6 @@
 # puang-bangtal
 이 게임은 중앙대학교 객체지향프로그래밍 수업의 일환으로 제작한 C++실습입니다.  
-방탈라이브러리[https://cafe.naver.com/bangtal]를 이용하여 제작하였습니다.
+[방탈라이브러리](https://cafe.naver.com/bangtal) 를 이용하여 제작하였습니다.
 
 
 #게임소개
